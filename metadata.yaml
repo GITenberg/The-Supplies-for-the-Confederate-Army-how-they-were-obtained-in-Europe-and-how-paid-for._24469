@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '26512'
     url: http://www.gutenberg.org/2009/agents/26512
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24469#The-Supplies-for-the-Confederate-Army-how-they-were-obtained-in-Europe-and-how-paid-for.
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2008-01-31'
 gutenberg_type: Text
