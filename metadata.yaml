@@ -1,0 +1,32 @@
+_repo: The-Supplies-for-the-Confederate-Army-how-they-were-obtained-in-Europe-and-how-paid-for._24469
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Huse, Caleb
+    birthdate: 1831
+    deathdate: 1905
+    gutenberg_agent_id: '26512'
+    url: http://www.gutenberg.org/2009/agents/26512
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2008-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24469'
+  lccn: '04033473'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'Confederate States of America. Army -- Supplies and stores'
+- !lcsh 'Confederate States of America -- Foreign relations'
+- !lcsh 'United States -- History -- Civil War, 1861-1865'
+title: 'The Supplies for the Confederate Army,
+
+  how they were obtained in Europe and how paid for.'
+url: http://www.gutenberg.org/ebooks/24469
